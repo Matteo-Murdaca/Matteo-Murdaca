@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Matteo Murdaca"
   avatar : "assets/images/bio-photo.jpeg"
-  bio    : "Atque vivere Lucilli, militare est"
+  bio    : "Student"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-globe"
