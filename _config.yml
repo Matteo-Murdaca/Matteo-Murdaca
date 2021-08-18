@@ -64,16 +64,16 @@ author:
   links:
     - label: "Blog"
       icon: "fas fa-fw fa-link"
-      url: "https://matteomurdaca.com"
+      url: "https://www.matteomurdaca.com", target: :_blank
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Matteo_Murdaca"
+      url: "https://twitter.com/Matteo_Murdaca", target: :_blank
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Matteo-Murdaca"
+      url: "https://github.com/Matteo-Murdaca", target: :_blank
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/matteomurdaca"
+      url: "https://instagram.com/matteomurdaca", target: :_blank
 
 footer:
   links:
