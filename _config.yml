@@ -63,7 +63,7 @@ author:
   bio    : "Atque vivere Lucilli, militare est"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-world"
+      icon: "fas fa-fw fa-globe-europe"
       url: "https://www.matteomurdaca.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
