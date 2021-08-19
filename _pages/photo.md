@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-layout: photo
+layout: portfolio
 permalink: /photo/
 author_profile: true
 ---
