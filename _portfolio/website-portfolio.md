@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/Presentazione.key/preview.jpg
 sidebar:
   - title: "Role"
-    image: /assets/bio-photo.jpeg
+    image: /assets/images/bio-photo.jpeg
     image_alt: "Profile"
     text: "Amateur photographer"
 gallery:
