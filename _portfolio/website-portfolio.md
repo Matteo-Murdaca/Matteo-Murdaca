@@ -2,22 +2,22 @@
 title: "Portfolio"
 excerpt: 
 header:
-  image: /assets/images/.jpg
-  teaser: /assets/images/.jpg
+  image: /assets/images/Presentazione.key/preview.jpg
+  teaser: /assets/images/Presentazione.key/preview.jpg
 sidebar:
   - title: "Role"
     image: /assets/bio-photo.jpeg
     image_alt: "Profile"
     text: "Amateur photographer"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/Presentazione 2.key/preview.jpg
+    image_path: assets/images/Presentazione 2.key/preview.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/Presentazione 2.key/preview.jpg
+    image_path: assets/images/Presentazione 2.key/preview.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/Presentazione 2.key/preview.jpg
+    image_path: assets/images/Presentazione 2.key/preview.jpg
     alt: "placeholder image 3"
 ---
 
