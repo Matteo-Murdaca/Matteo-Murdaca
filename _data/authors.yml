@@ -1,0 +1,21 @@
+# /_data/authors.yml
+
+Matteo Murdaca:
+  name   : "Matteo Murdaca"
+  avatar : "assets/images/bio-photo.jpeg"
+  bio    : "High school student"
+  links:
+    - label: "Lombardy, Italy"
+      icon: "fas fa-fw fa-location-dot"  
+    - label: "Website"
+      icon: "fas fa-fw fa-globe"
+      url: "https://www.matteomurdaca.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Matteo_Murdaca"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Matteo-Murdaca"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/matteomurdaca"
