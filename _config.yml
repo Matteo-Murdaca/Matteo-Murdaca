@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Matteo Murdaca"
   avatar : "assets/images/bio-photo.jpeg"
-  bio    : "Student"
+  bio    : "High school student"
   links:
     - label: "Lombardy, Italy"
       icon: "fas fa-fw fa-location-dot"  
@@ -112,6 +112,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# tag_archive:
+  # type: liquid
+  # path: /tags/
