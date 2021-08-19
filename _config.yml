@@ -23,6 +23,7 @@ twitter_username: matteo_murdaca
 github_username: Matteo-Murdaca
 minimal_mistakes_skin: dark
 search: true
+date_format: "%d-%m-%Y"
 
 # Build settings
 markdown: kramdown
@@ -101,6 +102,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -123,3 +125,8 @@ category_archive:
 # tag_archive:
   # type: liquid
   # path: /tags/
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "yout-disqus-shortname"
