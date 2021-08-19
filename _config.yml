@@ -102,6 +102,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
 
   # _pages
   - scope:
@@ -110,15 +111,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  
+
   # _portfolio
   - scope:
-    path: ""
-    type: portfolio
-   values:
-    layout: single
-    author_profile: false
-    share: true
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
