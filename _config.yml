@@ -62,6 +62,8 @@ author:
   avatar : "assets/images/bio-photo.jpeg"
   bio    : "Student"
   links:
+    - label: "Lombardy, Italy"
+      icon: "fas fa-fw fa-location-dot"  
     - label: "Website"
       icon: "fas fa-fw fa-globe"
       url: "https://www.matteomurdaca.com"
