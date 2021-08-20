@@ -12,5 +12,4 @@ This is my first post on this website, I hope it won't be the last one.
 I can't really predict how often will this section be filled with my thoughts niether how many posts I'll do.
 Ok, in reality those words are written with the sole scope of testing the entire website (I've not finished it yet).
 
-![image of writing process]
-(https://unsplash.com/photos/npxXWgQ33ZQ?utm_source=unsplash&utm_medium=referral&utm_content=view-photo-on-unsplash&utm_campaign=unsplash-ios)
+
