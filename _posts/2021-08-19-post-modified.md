@@ -13,5 +13,4 @@ I can't really predict how often will this section be filled with my thoughts ni
 Ok, in reality those words are written with the sole scope of testing the entire website (I've not finished it yet).
 
 <img src="/assets/images/5F637FB4-0679-4385-883A-5312215E62AD.jpeg"
-     alt="Writing img"
      style="float: left; margin-right: 10px;" />
