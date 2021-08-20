@@ -6,11 +6,12 @@ categories:
   - Blog
 tags:
   - journal
+header:
+  - image: assets/images/5F637FB4-0679-4385-883A-5312215E62AD.jpeg
+  - teaser: assets/images/5F637FB4-0679-4385-883A-5312215E62AD.jpeg
 ---
 
 This is my first post on this website, I hope it won't be the last one.
 I can't really predict how often will this section be filled with my thoughts niether how many posts I'll do.
 Ok, in reality those words are written with the sole scope of testing the entire website (I've not finished it yet).
 
-<img src="/assets/images/5F637FB4-0679-4385-883A-5312215E62AD.jpeg"
-     style="float: left; margin-right: 10px;" />
