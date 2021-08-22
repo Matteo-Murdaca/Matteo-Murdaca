@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "Street"
 layout: collection
 permalink: /portfolio/
 collection: portfolio
