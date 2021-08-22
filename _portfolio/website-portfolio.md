@@ -22,4 +22,4 @@ It's a strange sensation, I mean, it could semm a quite normal thing to take a c
 Well, I find it strange but I also doing it so...
 Here there are some of my experiments with this thing, some of my experiments trying to write a storybook with a camera and some light.
 
-{% include gallery caption="Some moments captured between Zürich, München and Cannes" %}
+{% include gallery caption="Some moments captured between Cannes, München and Zürich" %}
