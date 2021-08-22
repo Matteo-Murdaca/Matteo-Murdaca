@@ -1,9 +1,9 @@
 ---
-title: "Portfolio"
+title: "Street"
 excerpt: 
 header:
-  image: /assets/images/Presentazione.key/preview.jpg
-  teaser: /assets/images/Presentazione.key/preview.jpg
+  image: /assets/galleries/Street/Lugano - scacchi.jpg
+  teaser: /assets/galleries/Street/Lugano - scacchi.jpg
 sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpeg
