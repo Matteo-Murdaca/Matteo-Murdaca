@@ -1,6 +1,6 @@
 ---
 title: "Street"
-excerpt:
+excerpt: 
 header:
   image: /assets/galleries/Street/Lugano - scacchi.jpg
   teaser: /assets/galleries/Street/Lugano - scacchi.jpg
