@@ -10,15 +10,12 @@ sidebar:
     image_alt: "Profile"
     text: "Amateur photographer"
 gallery:
-  - url: /assets/images/Presentazione 2.key/preview.jpg
-    image_path: assets/images/Presentazione 2.key/preview.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/Presentazione 2.key/preview.jpg
-    image_path: assets/images/Presentazione 2.key/preview.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/Presentazione 2.key/preview.jpg
-    image_path: assets/images/Presentazione 2.key/preview.jpg
-    alt: "placeholder image 3"
+  - url: /assets/galleries/Street/ 000001.jpg
+    image_path: assets/galleries/Street/ 000001.jpg
+  - url: /assets/galleries/Street/ 000023.jpg
+    image_path: assets/galleries/Street/ 000023.jpg
+  - url: /assets/galleries/Street/ 000030.jpg
+    image_path: assets/galleries/Street/ 000030.jpg
 ---
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
