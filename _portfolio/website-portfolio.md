@@ -18,4 +18,4 @@ gallery:
     image_path: assets/galleries/Street/ 000030.jpg
 ---
 
-{% include gallery caption="Some moments captured between Zurich, Munchen and Cannes" %}
+{% include gallery caption="Some moments captured between Zürich, München and Cannes" %}
