@@ -18,4 +18,4 @@ gallery:
     image_path: assets/galleries/Street/ 000030.jpg
 ---
 
-Some pictures I shoot in the street...
+{% include gallery caption="Some moments captured between Zurich, Munchen and Cannes" %}
