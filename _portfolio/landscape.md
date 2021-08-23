@@ -1,11 +1,11 @@
 ---
-title: "Street"
+title: "Landscape"
 excerpt: 
 header:
   image: /assets/galleries/Street/Lugano - scacchi.jpg
   teaser: /assets/galleries/Street/Lugano - scacchi.jpg
 sidebar:
-  - title: "Role"
+  - title: "Matteo Murdaca"
     image: /assets/images/bio-photo.jpeg
     image_alt: "Profile"
     text: "Amateur photographer"
