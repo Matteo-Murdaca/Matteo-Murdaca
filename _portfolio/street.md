@@ -2,20 +2,22 @@
 title: "Street"
 excerpt: 
 header:
-  image: /assets/galleries/Street/Lugano - scacchi.jpg
-  teaser: /assets/galleries/Street/Lugano - scacchi.jpg
+  image: 
+  teaser: /assets/galleries/Street/4.jpg
 sidebar:
   - title: "Matteo Murdaca"
     image: /assets/images/bio-photo.jpeg
     image_alt: "Profile"
     text: "Amateur photographer"
 gallery:
-  - url: /assets/galleries/Street/ 000001.jpg
-    image_path: assets/galleries/Street/ 000001.jpg
-  - url: /assets/galleries/Street/ 000023.jpg
-    image_path: assets/galleries/Street/ 000023.jpg
-  - url: /assets/galleries/Street/ 000030.jpg
-    image_path: assets/galleries/Street/ 000030.jpg
+  - url: /assets/galleries/Street/1.jpg
+    image_path: assets/galleries/Street/1.jpg
+  - url: /assets/galleries/Street/3.jpg
+    image_path: assets/galleries/Street/3.jpg
+  - url: /assets/galleries/Street/2.jpg
+    image_path: assets/galleries/Street/2.jpg
+  - url: /assets/galleries/Street/4.jpg
+    image_path: assets/galleries/Street/4.jpg
 ---
 
 It's a strange sensation, I mean, it could seem a quite normal thing to take a camera, go in a different city and be ready to capture an instant, an instant of daily life.
