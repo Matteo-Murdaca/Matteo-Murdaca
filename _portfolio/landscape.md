@@ -1,5 +1,5 @@
 ---
-title: "Landscape"
+title: "Paesaggistica"
 excerpt:
 header:
   image:
@@ -8,7 +8,7 @@ sidebar:
   - title: "Matteo Murdaca"
     image: /assets/images/bio-photo.jpeg
     image_alt: "Profile"
-    text: "Amateur photographer"
+    text: ""
 gallery:
   - url: /assets/galleries/Landscape/1.jpg
     image_path: /assets/galleries/Landscape/1.jpg
@@ -27,3 +27,4 @@ gallery:
   - url: /assets/galleries/Landscape/8.jpg
     image_path: /assets/galleries/Landscape/8.jpg
 ---
+

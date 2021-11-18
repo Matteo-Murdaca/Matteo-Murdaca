@@ -1,5 +1,5 @@
 ---
-title: "Nature"
+title: "Natura"
 excerpt:
 header:
   image:
@@ -8,7 +8,7 @@ sidebar:
   - title: "Matteo Murdaca"
     image: /assets/images/bio-photo.jpeg
     image_alt: "Profile"
-    text: "Amateur photographer"
+    text: ""
 gallery:
   - url: /assets/galleries/Nature/1.jpg
     image_path: /assets/galleries/Nature/1.jpg
