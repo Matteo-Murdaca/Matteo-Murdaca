@@ -1,16 +1,11 @@
 ---
 title: "First post"
 author: Matteo Murdaca
-last_modified_at: 2021-08-19T11:08:00+1
+last_modified_at: 2021-11-18T11:23:00+1
 categories:
   - Blog
 tags:
   - journal
-header:
-  image:
-  - ![](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80)
-  teaser: 
-  - ![](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80)
 ---
 
 This is my first post on this website, I hope it won't be the last one.
