@@ -9,6 +9,7 @@ sidebar:
     image: /assets/images/bio-photo.jpeg
     image_alt: "Profile"
     text: ""
+url: /assets/galleries/Landscape/1.jpg
 gallery:
   - url: /assets/galleries/Landscape/1.jpg
     image_path: /assets/galleries/Landscape/1.jpg
