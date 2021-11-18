@@ -33,7 +33,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: IT
-
+search: true
 include:
   - _pages
 
@@ -57,6 +57,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
 
 author:
   name   : "Matteo Murdaca"
@@ -99,8 +100,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
       show_date: true
 
@@ -119,7 +120,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
 
 category_archive:
   type: liquid
