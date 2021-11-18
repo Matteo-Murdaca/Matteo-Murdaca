@@ -2,7 +2,7 @@
 title: "Ritrattistica"
 excerpt:
 header:
-  image: /assets/galleries/Street/Lugano - scacchi.jpg
+  image:
   teaser: /assets/galleries/Street/Lugano - scacchi.jpg
 sidebar:
   - title: "Matteo Murdaca"
