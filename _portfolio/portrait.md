@@ -17,4 +17,3 @@ gallery:
   - url: /assets/galleries/Street/ 000030.jpg
     image_path: assets/galleries/Street/ 000030.jpg
 ---
-

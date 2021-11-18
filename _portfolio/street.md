@@ -1,8 +1,8 @@
 ---
 title: "Street"
-excerpt: 
+excerpt:
 header:
-  image: 
+  image:
   teaser: /assets/galleries/Street/4.jpg
 sidebar:
   - title: "Matteo Murdaca"
@@ -19,7 +19,5 @@ gallery:
   - url: /assets/galleries/Street/4.jpg
     image_path: assets/galleries/Street/4.jpg
 ---
-
-
 
 {% include gallery caption="Alcuni istanti catturati tra Cannes, München e Zürich" %}

@@ -28,4 +28,3 @@ gallery:
   - url: /assets/galleries/Landscape/8.jpg
     image_path: /assets/galleries/Landscape/8.jpg
 ---
-

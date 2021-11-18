@@ -23,4 +23,3 @@ gallery:
   - url: /assets/galleries/Nature/6.jpg
     image_path: /assets/galleries/Nature/6.jpg
 ---
-

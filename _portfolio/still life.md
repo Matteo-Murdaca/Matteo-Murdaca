@@ -1,8 +1,8 @@
 ---
 title: "Still Life"
-excerpt: 
+excerpt:
 header:
-  image: 
+  image:
   teaser: /assets/galleries/Still Life/1.jpg
 sidebar:
   - title: "Matteo Murdaca"
@@ -17,4 +17,3 @@ gallery:
   - url: /assets/galleries/Still Life/3.jpg
     image_path: /assets/galleries/Still Life/3.jpg
 ---
-
