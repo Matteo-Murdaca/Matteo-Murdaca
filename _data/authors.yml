@@ -1,12 +1,12 @@
 # /_data/authors.yml
 
 Matteo Murdaca:
-  name   : "Matteo Murdaca"
-  avatar : "assets/images/bio-photo.jpeg"
-  bio    : "High school student, soon to be physics major (hopefully)"
+  name: "Matteo Murdaca"
+  avatar: "assets/images/bio-photo.jpeg"
+  bio: "Studente liceale, presto laureando in fisica (si spera)"
   links:
-    - label: "Lombardy, Italy"
-      icon: "fas fa-fw fa-location-dot"  
+    - label: "Lombardia, Italia"
+      icon: "fas fa-fw fa-location-dot"
     - label: "Sito"
       icon: "fas fa-fw fa-globe"
       url: "https://www.matteomurdaca.com"
