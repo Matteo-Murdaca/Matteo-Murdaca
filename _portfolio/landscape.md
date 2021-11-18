@@ -28,4 +28,3 @@ gallery:
     image_path: /assets/galleries/Landscape/8.jpg
 ---
 
-{% include gallery caption="Various landscapes" %}

@@ -24,4 +24,3 @@ gallery:
     image_path: /assets/galleries/Nature/6.jpg
 ---
 
-# {% include gallery caption="" %}

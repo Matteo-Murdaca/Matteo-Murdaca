@@ -18,4 +18,3 @@ gallery:
     image_path: /assets/galleries/Still Life/3.jpg
 ---
 
-{% include gallery caption="Some moments captured between Zurich, Munchen and Cannes" %}
