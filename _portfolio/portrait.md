@@ -17,3 +17,5 @@ gallery:
   - url: /assets/galleries/Street/ 000030.jpg
     image_path: assets/galleries/Street/ 000030.jpg
 ---
+
+{% include gallery caption="Probabilmente uno dei peggiori ritrattisti di questo pianeta; nevermind, questi sono alcuni miei tentativi" %}

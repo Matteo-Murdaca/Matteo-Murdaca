@@ -17,3 +17,5 @@ gallery:
   - url: /assets/galleries/Still Life/3.jpg
     image_path: /assets/galleries/Still Life/3.jpg
 ---
+
+{% include gallery caption="Come si fa a dare vita ad oggetti inanimati?" %}

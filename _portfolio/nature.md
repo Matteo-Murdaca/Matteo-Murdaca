@@ -23,3 +23,5 @@ gallery:
   - url: /assets/galleries/Nature/6.jpg
     image_path: /assets/galleries/Nature/6.jpg
 ---
+
+{% include gallery caption="Le nostre origini immortalate e digitalizzate" %}
