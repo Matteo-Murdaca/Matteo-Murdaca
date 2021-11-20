@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Matteo Murdaca"
   avatar : "assets/images/bio-photo.jpeg"
-  bio    : "High school student, soon to be physics major (hopefully)"
+  bio    : "Studente liceale, presto laureando in fisica (si spera)"
   links:
     - label: "Lombardy, Italy"
       icon: "fas fa-fw fa-location-dot"  
