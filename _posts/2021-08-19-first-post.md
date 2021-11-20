@@ -11,8 +11,9 @@ header:
   teaser: ![](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80)
 ---
 
-This is my first post on this website, I hope it won't be the last one.
-I can't really predict how often will this section be filled with my thoughts niether how many posts I'll do.
-Ok, in reality those words are written with the sole scope of testing the entire website (I've not finished it yet).
+Questo post alquanto singolare assolve due scopi principali.
+Il primo scopo si può ritrovare nell'esigenza pratica di testare il blog durante la sua creazione ed è puramente strumentale.
+La seconda invece è relativa alla funzione di essere un primo post, una sorta di inizio della mia attività su questo sito. 
+Questo post sarà il primo di una (spero) lunga serie; a presto.
 
 ![](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80)
