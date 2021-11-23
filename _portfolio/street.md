@@ -20,4 +20,4 @@ gallery:
     image_path: assets/galleries/Street/4.jpg
 ---
 
-{% include gallery caption="Alcuni istanti catturati tra Cannes, München e Zürich" %}
+{% include gallery caption="" %}
